@@ -1,0 +1,60 @@
+# Lab Title: Network Monitoring
+
+## Date: 05/31/2024
+
+## Lab Overview:
+Network Monitoring
+Learn how to use Wireshark, a sniffer, to capture and analyze network traffic. 
+Then, dive deeper into network analysis by learning how to perform packet analysis.
+
+### Part 1 - Capturing and Analyzing Network traffic using a Sniffer
+
+#### Time for Lab Completion:
+
+Provide the time to complete the lab in “HRS, MIN” format, i.e. 1 hour, 10 minutes
+
+#### Purpose of the Lab:
+This lab teaches one how to:
+Configure the network interface to allow a sniffer to capture packets.
+Generate and capture traffic on the network.
+Analyze captured traffic in Wireshark.
+Capturing and analyzing network traffic using a sniffer is crucial to cybersecurity because sniffers
+enable cybersecurity proffessionals to monitor activities on a network, gain valuable insight,and
+detect potential threats such as malware, data breaches and unauthorized access.
+
+#### What did you enjoy about the lab?
+it was very short 
+
+#### What did you find most challenging about the lab?
+There were no challanges
+
+
+Discussion Questions A
+1.	What is a sniffer?
+A sniffer is a tool that captures and analyzes network traffic.
+2.	What is ifconfig?
+The ifconfig is a command line tool in Linux that enumerates all the interfaces on a system
+3.	What is the name of the sniffer used in this lab?
+Wireshark
+
+Discussion Questions B
+1.	What is FTP?
+File Transfer Protocol
+FTP is a protocol that allows for transfer of files between systems and uses Transmission Control Protocol (TCP) ports 20 and 21.
+2.	What is JPG?
+JPG or JPEG stands for Joint Photographic Expert Group. It is a format for saving image files using lossy compression technique to reduce the file size.
+3.	What is telnet?
+TELNET or Teletype Network is a protocol that enables a local computer to connect to remote computer over TCP/IP network.
+4.	What is net group?
+Net group is a command-line tool built into Windows Vista1. It is used to add, expand, or delete groups by specifying the name of the group.
+ The netgroup file, on the other hand, defines "netgroups", which are sets of (host, user, domain) tuples, used for permission checking when doing remote mounts, remote logins and remote shells.
+
+Discussion Questions C
+1.	What is POP?
+POP stands for Post Office Protocol (POP). It is an application-layer Internet standard protocol used by e-mail clients to retrieve e-mail from a mail server
+2.	What is a .cap file?
+A CAP file is a file format used for capturing and storing network traffic data. It contains packets and metadata collected by a packet sniffing program over a network transmission. CAP files are also called trace files or bone files, and they are used by network monitoring and analysis tools such as Wireshark, tcpdump, and Snort.
+3.	What is a TCP stream?
+A TCP stream is a sequence of packets exchanged between two devices typically, a server and  a client over a network connection.
+
+.
