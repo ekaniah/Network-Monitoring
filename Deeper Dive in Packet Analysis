@@ -1,27 +1,32 @@
-Lab Title: Network Monitoring
+Lab Title: Network Monitoring- Deeper Dive in Packet Analysis
 
 ## Date: 05/31/2024
 
 ## Lab Overview:
-
-Provide a brief overview of the lab, including the lab title and the purpose, in one or two sentences
-
+Deeper dive in packet analysis
+The purpose of this lab is to teach one how to:
+Use Wireshark to view protocol traffic.
+View protocols using Wireshark.
+Parse objects from network traffic.
+Use NetworkMiner.
 ---
-
-### Part #? - Title
+### Part 2 - Deeper dive in packet analysis
 
 #### Time for Lab Completion:
-
-Provide the time to complete the lab in “HRS, MIN” format, i.e. 1 hour, 10 minutes
+40 mins
 
 #### Purpose of the Lab:
 
 Provide a detailed description of the lab, including what the main idea was, the tasks performed, how it relates to the unit, and how it relates to cybersecurity as a whole
+We used Wireshark to view protocol traffic.
+View protocols using Wireshark.
+Parse objects from network traffic.
+Use NetworkMiner. 
+Packet Analysis is crucial to cybersecurity because by analyzing packets, cybersecurity professional can gain valuable insight
+about activities on the network.
 
 #### What did you enjoy about the lab?
-
-Your description here
+I was too tired to enjoy anything
 
 #### What did you find most challenging about the lab?
-
-Your description here
+staying awake and not falling asleep the entire time.
