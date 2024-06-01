@@ -13,13 +13,11 @@ Use NetworkMiner.
 ### Part 2 - Deeper dive in packet analysis
 
 #### Time for Lab Completion:
-40 mins
+1hr 17mins
 
 #### Purpose of the Lab:
 
-Provide a detailed description of the lab, including what the main idea was, the tasks performed, how it relates to the unit, and how it relates to cybersecurity as a whole
-We used Wireshark to view protocol traffic.
-View protocols using Wireshark.
+The purpose of the lab is to teach one how to analyze protocol traffic using wireshark
 Parse objects from network traffic.
 Use NetworkMiner. 
 Packet Analysis is crucial to cybersecurity because by analyzing packets, cybersecurity professional can gain valuable insight
@@ -29,4 +27,33 @@ about activities on the network.
 I was too tired to enjoy anything
 
 #### What did you find most challenging about the lab?
-staying awake and not falling asleep the entire time.
+staying awake and not falling asleep the entire time. Every aspect of the lab worked so there wasn't any challenge.
+
+Discussion Questions
+1.	What is ICMP?
+Internet control message protocol
+2.	What is ARP?
+Address resolution protocol
+3.	What is FTP?
+File Transfer protocol
+4.	What is SMTP?
+Simple Message Transfer protocol
+
+Discussion Questions
+1.	What is HTTP?
+Hyper Text Transfer protocol
+2.	What is the port of QOTD?
+Port 17
+
+Discussion Questions
+1.	What is NetworkMiner?
+Network miner is Network Forensic Analysis tool (NFAT) that runs on Windows, Linux, MacOS X, and FreeBSD. It can be used as a passive packet sniffer or a network analysis tools using PCAP files.
+2.	What is the messages tab?
+The message tab in NetworkMiner is a place where messages PCAP files can be read.
+3.	What is the credentials tab?
+Credentials tab in NetworkMiner is the tab where user name and passwords from a PCAP file can be read. 
+4.	What is the images tab?
+The image tab in NetworkMiner is the tab where images from a PCAP file can be viewed.
+
+
+
